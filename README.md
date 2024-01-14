@@ -14,7 +14,7 @@ Voici quelques-uns des projets que vous trouverez sur mon GitHub :
 - **Projet de sécurisation d'Active Directory** : Mise en place d'une infrastructure multi-sites, avec différents domaines Active Directory, Travail de recherche en autonomie et de compréhension sur le protocole d'authentification windows Kerberos, Enumération de domaine AD et de réseaux avec Bloodhound et PowerView, Attaques de types Golden Ticket, Silver Ticket, Pass the Hash, Kerberoasting avec mimikatz et rubeus. Travail de rédaction sur comment se protéger de ces attaques.  
 - **Projet Assembleur et Crackmes** : Codage d'une dizaine des fonctions les plus utiles de la lib_C en assembleur. Résolutions de crackmes (découverte du reverse engineering en utilisant Radare2 et Ghidra pour désassembler les binaires)
 
-N'hésitez pas à explorer mes différents dépôts pour en savoir plus sur mes réalisations et mes compétences.
+N'hésitez pas à explorer mes différents dépôts pour en savoir plus sur mes réalisations et mes compétences. Pour vous y retrouver, chaque projet universitaire est de type : SAE_Nom-Du-Projet_Annee
 
 ## Recherche d'alternance
 
