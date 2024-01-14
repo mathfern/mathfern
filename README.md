@@ -16,6 +16,10 @@ Voici quelques-uns des projets que vous trouverez sur mon GitHub :
 
 N'hésitez pas à explorer mes différents dépôts pour en savoir plus sur mes réalisations et mes compétences.
 
+## Annonce
+
+Actuellement à la recherche d'une ALTERNANCE de 36 mois dans le cadre d’un cursus ingénieur réseaux et sécurité en apprentissage à partir de septembre 2024 dans le domaine de la cybersécurité, en Île de France. N'hésitez pas à me contacter.
+
 ## Contact
 
 - LinkedIn : https://www.linkedin.com/in/mathias-fernandes-392964237/
