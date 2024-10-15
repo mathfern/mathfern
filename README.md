@@ -2,11 +2,6 @@
 
 Je suis **@mathfern** un étudiant en BUT Réseaux et Télécommunications, parcours Cybersécurité à l'IUT de Vélizy et un apprenti administrateur infrastructure et systèmes chez Seppic, une filiale d'Air Liquide. Passionné par la cybersécurité, je partage ici tous mes projets, de ma première année d'études supérieures jusqu'à maintenant, mettant en avant mes compétences et mon évolution dans ce domaine.
 
-## À propos
-
-- 🔭 Actuellement, je travaille sur un projet de découverte de l'assembleur pour mieux appréhender la notion de reverse engineering.
-- 🌱 En constante formation, j'aime me perfectionner en pratiquant sur des plateformes telles que RootMe et en pratiquant une veille informatique permanente sur les domaines de la cybersécurité, des systèmes et réseaux.
-
 ## Projets
 
 Voici quelques-uns des projets que vous trouverez sur mon GitHub :
@@ -15,10 +10,6 @@ Voici quelques-uns des projets que vous trouverez sur mon GitHub :
 - **Projet Assembleur et Crackmes** : Codage d'une dizaine des fonctions les plus utiles de la lib_C en assembleur. Résolutions de crackmes (découverte du reverse engineering en utilisant Radare2 et Ghidra pour désassembler les binaires)
 
 N'hésitez pas à explorer mes différents dépôts pour en savoir plus sur mes réalisations et mes compétences. Pour vous y retrouver, chaque projet universitaire nommé de la manière suivante : SAE_Nom-Du-Projet_Annee
-
-## Recherche d'alternance
-
-Actuellement à la recherche d'une **ALTERNANCE de 36 mois** dans le cadre d’un cursus ingénieur réseaux et sécurité en apprentissage à partir de septembre 2024 dans le domaine de la **cybersécurité** en Île de France. N'hésitez pas à me contacter.
 
 ## Contact
 
